@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Bem-vindo(a).
 
-Olá, como vai?! Meu nome é Gabriel Miranda e acabei de fazer um jogo com react para colocar em prática meus conhecimentos em props, hooks, criação de componente e jsx.
+Olá, como vai?! Meu nome é Gabriel Miranda e acabei de fazer uma calculadora em react para deixar mais sólido os conceitos do react.
 
 
 <br>
@@ -94,14 +94,14 @@ Olá, como vai?! Meu nome é Gabriel Miranda e acabei de fazer um jogo com react
  ## 🧠 contexto
 > **Project Feature:**  *aplicação web* 🌐 
 
- Este projeto é um jogo que gera uma palavra secreta se baseando na categoria(dica) escolhida, feito com `html`, `css`, ``javascript` e `react`, onde faço as  seguintes funcionalidades:
+ Este projeto é uma calculadora, feita com `html`, `css`, ``javascript` e `react`, onde faço as  seguintes funcionalidades:
 
- * Validação de formulário;
- * Gerar dica da palavra;
- * Gerar palavra que será adivinhada;
- * Pontuação do usuário;
- * Página de win e game over;
- * Resetar todo o jogo;
+ * Função de somar ;
+ * Função de subtrair ;
+ * Função de dividir ;
+ * Função de multiplicar ;
+ * Função de resetar;
+ 
  
 
 
@@ -117,10 +117,10 @@ Além disso, é bom ter um editor para trabalhar com código como [VSCode](https
 
 ```php
 # clonar este repositório
-$ git clone https://github.com/Gabrielmirandaxl/Secret-Word-react
+$ git clone https://github.com/Gabrielmirandaxl/Calculator-react
 
 # acesse a pasta do projeto
-$ cd Secret-Word-react
+$ cd Calculator-react
 
 # instale as dependências
 $ npm install
