@@ -139,7 +139,7 @@ $ yarn start
 <br>
 
 ## 🌐 aplicação
-<img width="900" heigth="900"  src="https://github.com/Gabrielmirandaxl/Secret-Word-react/blob/master/public/2022-08-08%2008-54-20%20(1).gif">
+<img width="900" heigth="900"  src="https://github.com/Gabrielmirandaxl/Calculator-react/blob/master/public/2022-08-10%2009-50-54.gif">
 
 <br>
 
