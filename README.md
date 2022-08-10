@@ -94,7 +94,7 @@ Olá, como vai?! Meu nome é Gabriel Miranda e acabei de fazer uma calculadora e
  ## 🧠 contexto
 > **Project Feature:**  *aplicação web* 🌐 
 
- Este projeto é uma calculadora, feita com `html`, `css`, ``javascript` e `react`, onde faço as  seguintes funcionalidades:
+ Este projeto é uma calculadora, feita com `html`, `css`, `javascript` e `react`, onde faço as  seguintes funcionalidades:
 
  * Função de somar ;
  * Função de subtrair ;
